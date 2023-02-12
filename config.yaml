@@ -1,0 +1,21 @@
+baseURL: /
+languageCode: en-GB
+title: Jake Turner
+theme: mini
+
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+
+params:
+  author: Jake Turner
+  bio: 22 | South Wales, UK | Software Engineer
+  description: My Blog
