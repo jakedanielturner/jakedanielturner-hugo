@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b8245d83-b7f4-4bed-a8c2-80dfb9a7f95e/deploy-status)](https://app.netlify.com/sites/flourishing-unicorn-6af36f/deploys)
+
 ## Overview
 
 This is a repo for building and deploying a static site, generated with Hugo.
