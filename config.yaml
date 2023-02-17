@@ -14,8 +14,11 @@ markup:
     guessSyntax: true
     style: emacs
 
+social:
+  github: github.com/jakedanielturner
 
 params:
   author: Jake Turner
-  bio: 22 | South Wales, UK | Software Engineer
-  description: My Blog
+  bio: 22 | South Wales, UK | Graduate Software Engineer
+  description: Personal blog for personal ramblings
+  copyright: © Copyright 2023 | Jake Turner
