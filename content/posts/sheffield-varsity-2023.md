@@ -15,3 +15,6 @@ tags: ["Dodgeball", "University"]
 
 ⚽ Following the conclusion of the dodgeball event, we made our way up to the Sheffield Hallam University Sports Park, and watched a number of outdoor sports take place, including the Men's 1s Football fixture finishing 1-1, the Men's 3s Football fixture finishing 3-3 (including a guest appearance from Nasser Hussain!) and Hallam beating University 4-0 in the Men's 4s Football fixture (there was more on than just football, promise).
 
+![The Sheffield Hallam Dodgeball team, 2023](/images/varsity.JPG "The Sheffield Hallam Dodgeball team, 2023")
+
+(Apologies for the poor image quality, we should really invest in a proper photographer...)
