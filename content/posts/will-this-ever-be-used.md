@@ -1,7 +1,8 @@
 ---
-title: "Will this ever be used? 🤔"
+title: Will this ever be used? 🤔
 date: 2023-10-17T13:08:54Z
 draft: false
+tags: ["DVSA", "CDDO"]
 ---
 
 I sort of forgot about this.
